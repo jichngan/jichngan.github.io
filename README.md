@@ -1,4 +1,3 @@
----
 ### Technical Skills 
 - **Programming Languages:** C, C++, Python, Javascript, Java
 - **Web Development Framework:** Flask, Node, Express
