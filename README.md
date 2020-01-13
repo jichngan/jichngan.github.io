@@ -1,7 +1,9 @@
+---
 ### Technical Skills 
 - **Programming Languages:** C, C++, Python, Javascript, Java
 - **Web Development Framework:** Flask, Node, Express
 - **System Dynamics Modelling:** VenSim, AnyLogic
+
 ---
 ### Work Experience
 
@@ -38,6 +40,7 @@
 - Web application suite for Internet-Of-Things (IOT) monitoring 
 - Technical skills utilised: Python, Flask Web Development, Scapy Packet Analysis library, ARP Scanning & Spoofing, Git
 - [Project Github Link](https://github.com/jichngan/backendboyz)
+
 ---
 ### Organisational and Committee Experience 
 
