@@ -1,4 +1,9 @@
+### Contact Information
+- **Email:** jicheng.ngan@u.nus.edu
+
+---
 ### Technical Skills 
+
 - **Programming Languages:** C, C++, Python, Javascript, Java
 - **Web Development Framework:** Flask, Node, Express
 - **System Dynamics Modelling:** VenSim, AnyLogic
